@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "追不上的按钮", "追不上的按钮\追不上的按钮.csproj", "{09C518D0-CA98-4B60-8011-47F063CB0037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C518D0-CA98-4B60-8011-47F063CB0037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C518D0-CA98-4B60-8011-47F063CB0037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C518D0-CA98-4B60-8011-47F063CB0037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C518D0-CA98-4B60-8011-47F063CB0037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2951073-AD04-48D7-A4AA-96D614F1A210}
+	EndGlobalSection
+EndGlobal
